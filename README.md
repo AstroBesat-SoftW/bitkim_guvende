@@ -2,9 +2,9 @@
 
 Create new Flutter project.
 
-Step 1 - open the .yaml file I uploaded and replace it with the one you created
-Step 2 - Replace the files I uploaded with the files you created
-Step 3 - Check Sdk compatibility
+Step 1 - open the .yaml file I uploaded and replace it with the one you created <br>
+Step 2 - Replace the files I uploaded with the files you created <br>
+Step 3 - Check Sdk compatibility <br>
 Step 4 - Make a pub get
 
 
