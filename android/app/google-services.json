@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523002273770",
+    "firebase_url": "https://sonarduinoiletisim-default-rtdb.firebaseio.com",
+    "project_id": "sonarduinoiletisim",
+    "storage_bucket": "sonarduinoiletisim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523002273770:android:7e7b6e36c4d025ea261c93",
+        "android_client_info": {
+          "package_name": "com.example.dhtproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523002273770-nlfs2ar12en6ej87mjpkc8ugum3hpel9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLvFQjHlMwwAAZY9G1WAfQSvXoyyZ-GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523002273770-nlfs2ar12en6ej87mjpkc8ugum3hpel9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
