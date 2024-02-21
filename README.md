@@ -7,13 +7,18 @@
 </head>
 <body>
 <h1>Bitkim Güvende</h1>
-<p><strong>ÖNEMLİ! KÜTÜPHANELER SDK SÜRÜMÜYLE UYUMLU OLDUĞUNDAN EMİN OLUN</strong></p>
-<p>Yeni bir Flutter projesi oluşturun.</p>
+<p><strong>IMPORTANT! MAKE SURE THE LIBRARIES ARE COMPATIBLE WITH THE SDK VERSION</strong></p>
+<p># bitkim_guvende</p>
+ 
 
-<h2>Adım 1 - Yüklediğim .yaml dosyasını açın ve sizin oluşturduğunuz dosya ile değiştirin</h2>
-<h2>Adım 2 - Yüklediğim dosyaları sizin oluşturduğunuz dosyalarla değiştirin</h2>
-<h2>Adım 3 - SDK uyumluluğunu kontrol edin</h2>
-<h2>Adım 4 - Pub get yapın</h2>
+Create new Flutter project.
+
+
+
+<h2>Step 1 - open the .yaml file I uploaded and replace it with the one you created</h2>
+<h2>Step 2 - Replace the files I uploaded with the files you created</h2>
+<h2>Step 3 - Check Sdk compatibility</h2>
+<h2>Step 4 - Make a pub get</h2>
 
 ![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/278d6786-1380-4689-991c-27cf3659ba5e)
   
