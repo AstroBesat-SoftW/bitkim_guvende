@@ -1,5 +1,5 @@
 # bitkim_guvende
-
+IMPORTANT! MAKE SURE THE LIBRARIES ARE COMPATIBLE WITH THE SDK VERSION
 Create new Flutter project.
 
 Step 1 - open the .yaml file I uploaded and replace it with the one you created <br>
