@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bitkim Güvende</title>
+
 </head>
 <body>
 <h1>Bitkim Güvende</h1>
@@ -23,13 +23,13 @@ Create new Flutter project.
 ![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/278d6786-1380-4689-991c-27cf3659ba5e)
   
 
-<p><strong>Önemli Not: En az 3.7.12 sürümü 20.04.2023 tarihindeki SDK'yı indirin https://docs.flutter.dev/release/archive?tab=windows* </strong> </p>
+<p><strong> Important note Download minimum 3.7.12 version 20.04.2023 2.19.6 sdk from https://docs.flutter.dev/release/archive?tab=windows*  </strong> </p>
 
-<p>1) Flutter projesi oluşturun
-2) Github'dan yüklediğim dosyaları kendi projenize sürükleyip bırakın
-3) Sürüklediğiniz dosyaları (.yaml bölümüne yüklenen kütüphaneleri eklemek için, sağ üst köşedeki <strong>Terminal</strong> veya <i>pub get</i> düğmesine tıklayarak kurun.
-4) Çalıştır düğmesine tıkladıktan sonra (hata verecek ancak açılacaktır. (Minimum SDK sürümlerine dikkat edin))
+<p>1) create flutter project
+2) Drag the files I uploaded from Github to your own project
+3) To include the files (libraries) you uploaded to the .yaml section, install by clicking <strong> Terminal</strong> or <i> pub get </i> in the upper right corner.
+4) After clicking run (it will give errors but it will open. (pay attention to min SDK versions))
 
-5) Yardım için besat59@gmail.com ile iletişime geçin</p>
+5) Contact besat59@gmail.com for help</p>
 </body>
 </html>
