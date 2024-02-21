@@ -31,5 +31,24 @@ Create new Flutter project.
 4) After clicking run (it will give errors but it will open. (pay attention to min SDK versions)) <br>
 
 5) Contact besat59@gmail.com for help</p> <br>
+
+
+<p><strong> It should not be forgotten that while doing this, esp8266 nodemcu circuit was used. We have included our own trial database and left our own circuit open so you can use it as a demo. Enjoy :)</strong></p> <br>
+
+
+
+Firebase was used as database
+
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/04092162-106f-47f4-9227-9c0b6215dbb2)
+
+used esp8266 nodemcu
+
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/1565f01f-b823-46ec-b86d-924602916f44)
+
+
+
+
+
+
 </body>
 </html>
