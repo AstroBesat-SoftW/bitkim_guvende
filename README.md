@@ -15,7 +15,8 @@
 <h2>Adım 3 - SDK uyumluluğunu kontrol edin</h2>
 <h2>Adım 4 - Pub get yapın</h2>
 
-<p>![Proje Resmi](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/278d6786-1380-4689-991c-27cf3659ba5e)</p>
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/278d6786-1380-4689-991c-27cf3659ba5e)
+  
 
 <p><strong>Önemli Not: En az 3.7.12 sürümü 20.04.2023 tarihindeki SDK'yı indirin https://docs.flutter.dev/release/archive?tab=windows* </strong> </p>
 
