@@ -25,11 +25,11 @@ Create new Flutter project.
 
 <p><strong> Important note Download minimum 3.7.12 version 20.04.2023 2.19.6 sdk from https://docs.flutter.dev/release/archive?tab=windows*  </strong> </p>
 
-<p>1) create flutter project
-2) Drag the files I uploaded from Github to your own project
-3) To include the files (libraries) you uploaded to the .yaml section, install by clicking <strong> Terminal</strong> or <i> pub get </i> in the upper right corner.
-4) After clicking run (it will give errors but it will open. (pay attention to min SDK versions))
+<p>1) create flutter project <br>
+2) Drag the files I uploaded from Github to your own project <br>
+3) To include the files (libraries) you uploaded to the .yaml section, install by clicking <strong> Terminal</strong> or <i> pub get </i> in the upper right corner. <br>
+4) After clicking run (it will give errors but it will open. (pay attention to min SDK versions)) <br>
 
-5) Contact besat59@gmail.com for help</p>
+5) Contact besat59@gmail.com for help</p> <br>
 </body>
 </html>
