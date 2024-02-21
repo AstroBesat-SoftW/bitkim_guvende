@@ -15,6 +15,8 @@ ardından oluşturduğun projede ilgili yere ekle
 
 İşte eklenmiş hali:
 
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/d7e6cac4-c99e-40aa-be79-9c16089fe87c)
+
 
 
 ------------------------
@@ -25,3 +27,15 @@ Ardından assets kısmını bul oluşturduğun dosyada
 
 benim yüklediğim .yaml da assets kısmındaki kısmı al ve sendeki yere yapıştır.
 ![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/bbf8a6cd-2fa7-4c67-8958-57e702bd14c3)
+
+işte eklenmiş hali:
+
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/a2e7b233-1bff-4c9a-8a3d-6ae40ba7aa31)
+
+son olarak sdk sürümünü şu hale getir: 
+
+
+ardından sol uste bulunan pub get'e bas
+
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/1cf75b2c-48d3-413e-bbba-9204309b86ed)
+
