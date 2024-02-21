@@ -14,3 +14,13 @@ ardından oluşturduğun projede ilgili yere ekle
 
 
 İşte eklenmiş hali:
+
+
+
+------------------------
+
+Ardından assets kısmını bul oluşturduğun dosyada
+
+![image](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/1f77e059-4605-4cf0-85a7-eab7ef1dbe18)
+
+benim yüklediğim .yaml da assets kısmındaki kısmı al ve sendeki yere yapıştır.
