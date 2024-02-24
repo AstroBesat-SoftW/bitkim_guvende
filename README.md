@@ -48,6 +48,10 @@ used esp8266 nodemcu
 
 
 
+<h1><center><strong>As an example, some of the demo versions will explain the working logic:</strong>
+</center></h1>
+
+![WhatsApp Görsel 2024-02-24 saat 13 43 00_4a47d88b](https://github.com/AstroBesat-SoftW/bitkim_guvende/assets/128177174/fb406fe8-3654-480c-afc2-fad3c7c0c497)
 
 
 </body>
